@@ -1,13 +1,13 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# folders 👇
+.runlang
+.git
 
-# C extensions
+
+# libraries 
 *.so
-
+*.elf
 # Distribution / packaging
-.Python
+
 build/
 develop-eggs/
 dist/
